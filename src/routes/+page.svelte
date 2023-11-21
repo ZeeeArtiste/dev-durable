@@ -15,4 +15,10 @@
         margin:10px;
         width:450px
     }
+
+     @media screen and (max-width: 768px) {
+        img{
+            width:350px;
+            }
+    }
 </style>
