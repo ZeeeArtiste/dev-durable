@@ -10,6 +10,10 @@
 
 <style>
   a{
+    color:#222;
     text-decoration: none;
+  }
+  a:visited{
+    color: #1899D6;
   }
 </style>
