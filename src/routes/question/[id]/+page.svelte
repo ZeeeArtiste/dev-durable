@@ -14,6 +14,6 @@
     text-decoration: none;
   }
   a:visited{
-    color: #1899D6;
+    color: #222;
   }
 </style>
